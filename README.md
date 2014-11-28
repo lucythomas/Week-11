@@ -1,9 +1,3 @@
-** This is a readme **
+#Week 11#
 
-__I don't know markdown__
-
-=I think these things do something=
-
-*Maybe this*
-
-#I dunno#
+This *is* a _repo_.
